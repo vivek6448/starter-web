@@ -12,3 +12,7 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 ## git comparison 
 adding git comparison lectyre
+
+modifing again nd again
+
+modified for staging area and repo
