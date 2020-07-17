@@ -3,7 +3,11 @@
 
 # TEAM
 
+<<<<<<< HEAD
     <name> -- <role> -- <twitter> 
+=======
+    <name> -- <role> -- <twitter> --<email>
+>>>>>>> develop
 
 # THANKS
 
@@ -12,8 +16,14 @@
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
+<<<<<<< HEAD
     jQuery, Modernizr,angular,machine learnig ,aws ,google cloud
+=======
+   docar,java, jQuery, Modernizr,angular,ajax
+>>>>>>> develop
 
 #NAME 
 VIVEK SINGH 
+ #email 
+vivek6448@gmail.cm
 
