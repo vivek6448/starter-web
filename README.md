@@ -18,3 +18,6 @@ modifing again nd again
 
 modified for staging area and repo
 
+adding git rebase lectures
+
+
