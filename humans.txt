@@ -32,5 +32,8 @@ kjhd
 =======
 vivek6448@gmail.com
 >>>>>>> d37adda... modified humantext
+<<<<<<< HEAD
 done changes
 doing some changes in loval 
+=======
+>>>>>>> mybranch
