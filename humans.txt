@@ -11,7 +11,7 @@
 
 # THANKS
 
-    <name>
+    to all me because m aswm
 
 # TECHNOLOGY COLOPHON
 
@@ -25,6 +25,12 @@
 #NAME 
 VIVEK SINGH 
  #email 
+<<<<<<< HEAD
 vivek6448@gmail.cm
 
 kjhd
+=======
+vivek6448@gmail.com
+>>>>>>> d37adda... modified humantext
+done changes
+doing some changes in loval 
