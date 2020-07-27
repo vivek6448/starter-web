@@ -1,0 +1,38 @@
+[33mb6d007e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: version1[m[33m)[m modified 404.html
+[33m1bd616d[m file created
+[33me1c474b[m deletion done
+[33m6392fc2[m stashing
+[33m6a73062[m done
+[33m07f4eaa[m example git stash pop
+[33ma111705[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m changes in humans after stashing
+[33mdbd8d8a[m delete unnecesarry file
+[33m4edc487[m new access log
+[33ma6fc359[m done
+[33m4d14f20[m added change in local
+[33mdf8e5af[m remote adding readme
+[33ma2cd05c[m something has change
+[33m07f4dbb[m for merging
+[33m91077f1[m change in human texxt
+[33m0b317e3[m files from git bash has been doen
+[33ma3c00bd[m deleting and again adding files direct by git bash
+[33m7139f14[m modified readme
+[33m3452d28[m modified
+[33m73737c8[m todays study
+[33mf266f02[m hading conflict after changing in same file
+[33ma0a53be[m change in develop branch
+[33m77cce78[m change in testfile
+[33madec71a[m change in readme
+[33mecd7660[m change in humans file
+[33m9c23dfc[m changes
+[33m4bedd0b[m done
+[33m5818672[m changes in some file
+[33mfaab16e[m adding context
+[33mb66a9be[m modified
+[33m7a1022d[m renamed file
+[33m4cae324[m adding files recursively
+[33m5394038[m all
+[33mf0d8ae7[m folder
+[33m4beb7f0[m Merge pull request #6 from jasongtaylor/feature-readme
+[33me73f914[m Adding Purpose section to README
+[33m34f563b[m Adding README file
+[33m5c05047[m Copying files from initializr project zip file and then creating simple.html as basis for super simple pages
